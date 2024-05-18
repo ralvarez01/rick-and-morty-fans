@@ -1,6 +1,6 @@
 <h1 align="center">Prueba Técnica Rick and Morty Fans</h1>
 
-![E-commerce](https://user-images.githubusercontent.com/78225423/213028210-97f87032-ea5d-4d11-8d46-a9ff1f31d2cb.png)
+![E-commerce](./image.png)
 
 
 <h4 >
