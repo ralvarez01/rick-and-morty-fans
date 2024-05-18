@@ -7,9 +7,6 @@
 Esto es una prueba técnica para frontend Mid
 </h4>
 
-## :page_facing_up: GitHub Pages:
-https://aleja184.github.io/e-commerce/
-
 ## :hammer: Funcionalidades
 
 REQUISITOS TÉCNICOS
